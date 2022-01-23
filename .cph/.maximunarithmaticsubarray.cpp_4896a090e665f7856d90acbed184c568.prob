@@ -1,0 +1,1 @@
+{"name":"Local: maximunarithmaticsubarray","url":"d:\\Programming\\hello world\\maximunarithmaticsubarray.cpp","tests":[{"id":1608627284960,"input":"7\n10 7 4 6 8 10 11","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\hello world\\maximunarithmaticsubarray.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: numbersofsubarray","url":"d:\\Programming\\hello world\\numbersofsubarray.cpp","tests":[{"id":1608625038372,"input":"5\n1\n2\n0\n7\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\hello world\\numbersofsubarray.cpp","group":"local","local":true}

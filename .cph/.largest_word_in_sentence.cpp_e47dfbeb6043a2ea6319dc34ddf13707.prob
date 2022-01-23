@@ -1,0 +1,1 @@
+{"name":"Local: largest_word_in_sentence","url":"d:\\1.Programming\\hello world\\largest_word_in_sentence.cpp","tests":[{"id":1611647716154,"input":"12\ndo or dying","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1.Programming\\hello world\\largest_word_in_sentence.cpp","group":"local","local":true}

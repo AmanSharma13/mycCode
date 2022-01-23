@@ -1,0 +1,1 @@
+{"name":"Local: smallest_positive_missing_number","url":"d:\\Programming\\hello world\\smallest_positive_missing_number.cpp","tests":[{"id":1608970009177,"input":"6\n0 -9 1 3 -4 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\hello world\\smallest_positive_missing_number.cpp","group":"local","local":true}
